@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Name="BLE_Phone_Alert">
+  <Version>1.0</Version>
+  <Keyword>BLE</Keyword>
+  <Keyword>Phone</Keyword>
+  <Keyword>Alert</Keyword>
+  <Keyword>Status</Keyword>
+  <Description>Phone Alert Handler example project indicates and controls the Alert State and the Ringer Setting via a Phone Alert Status Service.</Description>
+  <DeviceFilter>PSoC 4100 BLE</DeviceFilter>
+  <DeviceFilter>PSoC 4200 BLE</DeviceFilter>
+  <DeviceFilter>PRoC BLE</DeviceFilter>
+  <Document>BLE_Phone_Alert.pdf</Document>
+  <MinToolVersion>4.1</MinToolVersion> 
+</Project>

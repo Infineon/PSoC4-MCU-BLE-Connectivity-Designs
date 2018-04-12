@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Name="BLE_OTA_UpgradableStackExample_Stack">
+  <Version>1.0</Version>
+  <Keyword>BLE</Keyword>
+  <Keyword>OTA</Keyword>
+  <Keyword>Bootloader</Keyword>
+  <Keyword>Bootloadable</Keyword>
+  <Description>This example shows how to build a Stack only project for a BLE design. This project is required for designs that need Over the Air upgrade capability for both Application and the BLE stack. The Design has a BLE component configured as a “Stack Only”. The BLE component initialized with a Bootloader service is used as the transport for the bootloader packets from the host. The project also has a bootloader component that uses the packets received from the host to conduct the bootload process.</Description>
+  <DeviceFilter MpnDefault="CY8C4128LQI-BL483">PSoC 4100 BLE</DeviceFilter>
+  <DeviceFilter MpnDefault="CY8C4248LQI-BL483">PSoC 4200 BLE</DeviceFilter>
+  <DeviceFilter MpnDefault="CYBL10573-56LQXI">PRoC BLE</DeviceFilter>
+  <Document>BLE_OTA_UpgradableStackExample_Stack.pdf</Document>
+  <MinToolVersion>4.1</MinToolVersion> 
+</Project>
+

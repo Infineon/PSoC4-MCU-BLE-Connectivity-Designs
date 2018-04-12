@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Name="BLE_Running_Speed_Cadence">
+  <Version>1.0</Version>
+  <Keyword>BLE</Keyword>
+  <Keyword>Running</Keyword>
+  <Keyword>RSCS</Keyword>
+  <Keyword>RSCP</Keyword>
+  <Description>Running Speed and Cadence example project that simulates a running activity and reports the simulated data to a BLE central device.</Description>
+  <DeviceFilter>PSoC 4100 BLE</DeviceFilter>
+  <DeviceFilter>PSoC 4200 BLE</DeviceFilter>
+  <DeviceFilter>PRoC BLE</DeviceFilter>
+  <Document>BLE_Running_Speed_Cadence.pdf</Document>
+  <MinToolVersion>4.1</MinToolVersion> 
+</Project>

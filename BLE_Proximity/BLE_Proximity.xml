@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Name="BLE_Proximity">
+  <Version>1.0</Version>
+  <Keyword>BLE</Keyword>
+  <Keyword>Alert</Keyword>
+  <Keyword>LLS</Keyword>
+  <Keyword>link loss</Keyword>
+  <Keyword>proximity</Keyword>
+  <Keyword>PXP</Keyword>
+  <Description>BLE example project that implements a BLE Link Loss service and triggers an alert on losing the link with the BLE central device.</Description>
+  <DeviceFilter>PSoC 4100 BLE</DeviceFilter>
+  <DeviceFilter>PSoC 4200 BLE</DeviceFilter>
+  <DeviceFilter>PRoC BLE</DeviceFilter>
+  <Document>BLE_Proximity.pdf</Document>
+  <MinToolVersion>4.1</MinToolVersion> 
+</Project>
