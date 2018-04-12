@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Name="BLE_HID_Mouse" StarterProject="true">
+  <Version>1.0</Version>
+  <Keyword>BLE</Keyword>
+  <Keyword>HOGP</Keyword>
+  <Keyword>Mouse</Keyword>
+  <Keyword>HID</Keyword>
+  <Keyword>HIDS</Keyword>
+  <Description>BLE HID mouse example project that supports mouse movement and button click HID reports in boot and protocol mode. The example also demonstrates handling suspend event from the central device and enters low power mode when suspended. </Description>
+  <ShortDescription>Shows how to use the HID Profile configured as a mouse HID device that supports mouse movements and button click HID reports in the boot and protocol mode. </ShortDescription>
+  <DeviceFilter>PSoC 4100 BLE</DeviceFilter>
+  <DeviceFilter>PSoC 4200 BLE</DeviceFilter>
+  <DeviceFilter>PRoC BLE</DeviceFilter>
+  <Document>BLE_HID_Mouse.pdf</Document>
+  <MinToolVersion>4.1</MinToolVersion> 
+</Project>

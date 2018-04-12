@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Name="BLE_Heart_Rate_Collector">
+  <Version>1.0</Version>
+  <Keyword>BLE</Keyword>
+  <Description> BLE example project. </Description>
+  <DeviceFilter>PSoC 4100 BLE</DeviceFilter>
+  <DeviceFilter>PSoC 4200 BLE</DeviceFilter>
+  <DeviceFilter>PRoC BLE</DeviceFilter>
+  <Document>BLE_Heart_Rate_Collector.pdf</Document>
+  <MinToolVersion>4.1</MinToolVersion> 
+</Project>
