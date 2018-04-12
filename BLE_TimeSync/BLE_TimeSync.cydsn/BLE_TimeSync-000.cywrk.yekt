@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="5f2be1a5-0687-4501-bb8c-cf21cb8211bf">
+<CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf type_name="CyDesigner.Common.ProjMgmt.GUI.CyBookmarkData" version="1">
+<indicators />
+</CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf>
+</dataGuid>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>BLE_TimeSync-000</v>
+<v>BLE_TimeSync-000\BLE_TimeSync</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\BLE_TimeSync.cydwr</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\BLE_TimeSync.cydwr\Pins</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\BLE_TimeSync.cydwr\Analog</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\BLE_TimeSync.cydwr\Clocks</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\BLE_TimeSync.cydwr\Interrupts</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\BLE_TimeSync.cydwr\System</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\BLE_TimeSync.cydwr\Directives</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\BLE_TimeSync.cydwr\Flash Security</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\Header Files</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\Header Files\common.h</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\Header Files\cts.h</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\Header Files\ndcs.h</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\Header Files\rtus.h</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\Source Files</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\Source Files\cts.c</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\Source Files\debug.c</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\Source Files\main.c</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\Source Files\ndcs.c</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\Source Files\rtus.c</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\BLE_TimeSync.pdf</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>BLE_TimeSync-000</v>
+<v>BLE_TimeSync-000\BLE_TimeSync</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\BLE_TimeSync.cydwr</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\BLE_TimeSync.cydwr\Pins</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\BLE_TimeSync.cydwr\Analog</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\BLE_TimeSync.cydwr\Clocks</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\BLE_TimeSync.cydwr\Interrupts</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\BLE_TimeSync.cydwr\System</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\BLE_TimeSync.cydwr\Directives</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\BLE_TimeSync.cydwr\Flash Security</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\Header Files</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\Header Files\common.h</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\Header Files\cts.h</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\Header Files\ndcs.h</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\Header Files\rtus.h</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\Source Files</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\Source Files\cts.c</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\Source Files\debug.c</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\Source Files\main.c</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\Source Files\ndcs.c</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\Source Files\rtus.c</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\BLE_TimeSync.pdf</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>BLE_TimeSync-000</v>
+<v>BLE_TimeSync-000\BLE_TimeSync</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\TopDesign</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\TopDesign\TopDesign.cysch</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>BLE_TimeSync-000</v>
+<v>BLE_TimeSync-000\BLE_TimeSync</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\TopDesign</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\TopDesign\TopDesign.cysch</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>BLE_TimeSync-000</v>
+<v>BLE_TimeSync-000\BLE_TimeSync</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\BLE_TimeSync.gpdsc</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\BLE_TimeSync.rpt</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\BLE_TimeSync_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>BLE_TimeSync-000</v>
+<v>BLE_TimeSync-000\BLE_TimeSync</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\BLE_TimeSync.gpdsc</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\BLE_TimeSync.rpt</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\BLE_TimeSync_timing.html</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>BLE_TimeSync-000</v>
+<v>BLE_TimeSync-000\BLE_TimeSync</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\PSoC 4 Architecture TRM</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\PSoC 4200 BLE Family Datasheet</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\System Reference Guides</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\System Reference Guides\cy_boot_v5_60</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\System Reference Guides\cy_lfclk_v1_20</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\BLE_v3_30.pdf</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\cy_gsref_v2_10.pdf</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\cy_isr_v1_70</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\cy_isr_v1_70\cy_isr_v1_70.pdf</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\cy_pins_v2_20</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\Gnd_v1_0.pdf</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\LED_v1_0</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\LED_v1_0\LED_v1_0.pdf</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\Power_v1_0.pdf</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\Resistor_v1_0</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\Resistor_v1_0\Resistor_v1_0.pdf</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\SCB_P4_v3_20.pdf</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\SwitchSPST_v1_0.pdf</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>BLE_TimeSync-000</v>
+<v>BLE_TimeSync-000\BLE_TimeSync</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\PSoC 4 Architecture TRM</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\PSoC 4200 BLE Family Datasheet</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\System Reference Guides</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\System Reference Guides\cy_boot_v5_60</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\System Reference Guides\cy_lfclk_v1_20</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\BLE_v3_30.pdf</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\cy_gsref_v2_10.pdf</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\cy_isr_v1_70</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\cy_isr_v1_70\cy_isr_v1_70.pdf</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\cy_pins_v2_20</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\Gnd_v1_0.pdf</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\LED_v1_0</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\LED_v1_0\LED_v1_0.pdf</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\Power_v1_0.pdf</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\Resistor_v1_0</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\Resistor_v1_0\Resistor_v1_0.pdf</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\SCB_P4_v3_20.pdf</v>
+<v>BLE_TimeSync-000\BLE_TimeSync\SwitchSPST_v1_0.pdf</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs>
+<name v=".\BLE_TimeSync.cydwr" />
+</OpenDocs>
+<OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
+
+  Actipro Docking/MDI for WinForms
+  Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
+  http://www.actiprosoftware.com
+
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1356, 509" SelectedTabbedMdiWindow="e380fe52-c3bc-4480-942c-2ad58c0d5e6e"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="21a12e00-a21a-4ad0-bdef-d3e3cd48aa8a" /><DocumentWindow Key="D:\GitHub\PSoC 4 GitHub\GitHub_PSOC_4\Connectivity Designs\BLE\BLE_TimeSync\BLE_TimeSync.cydsn\BLE_TimeSync.cydwr" Guid="e380fe52-c3bc-4480-942c-2ad58c0d5e6e" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>

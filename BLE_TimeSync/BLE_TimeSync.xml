@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Name="BLE_TimeSync">
+  <Version>1.0</Version>
+  <Keyword>BLE</Keyword>
+  <Keyword>CTS</Keyword>
+  <Keyword>RTC</Keyword>
+  <Keyword>Time</Keyword>
+  <Keyword>RTUS</Keyword>
+  <Keyword>NDCS</Keyword>
+  <Keyword>TIP</Keyword>
+  <Keyword>BLE Authenticated pairing</Keyword>
+  <Description>BLE RTC example project that syncs its initial time from the BLE central device using BLE Current Time service.</Description>
+  <DeviceFilter>PSoC 4100 BLE</DeviceFilter>
+  <DeviceFilter>PSoC 4200 BLE</DeviceFilter>
+  <DeviceFilter>PRoC BLE</DeviceFilter>
+  <Document>BLE_TimeSync.pdf</Document>
+  <MinToolVersion>4.1</MinToolVersion> 
+</Project>

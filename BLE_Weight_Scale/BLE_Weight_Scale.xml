@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Name="BLE_Weight_Scale" StarterProject="true">
+  <Version>1.0</Version>
+  <Keyword>BLE</Keyword>
+  <Keyword>Weight Scale</Keyword>
+  <Keyword>WSP</Keyword>
+  <Keyword>WSS</Keyword>
+  <Keyword>BCS</Keyword>
+  <Keyword>UDS</Keyword>
+  <Keyword>BLE Authenticated pairing</Keyword>
+  <Description>Simple BLE example project that demonstrates how to configure and use Cypress's BLE component APIs and application layer callback for BLE weight scale application.</Description>
+  <ShortDescription>Shows how to use the Weight Scale Service with the BLE component.</ShortDescription>
+  <DeviceFilter>PSoC 4100 BLE</DeviceFilter>
+  <DeviceFilter>PSoC 4200 BLE</DeviceFilter>
+  <DeviceFilter>PRoC BLE</DeviceFilter>
+  <Document>BLE_Weight_Scale.pdf</Document>
+  <MinToolVersion>4.1</MinToolVersion> 
+</Project>
+
