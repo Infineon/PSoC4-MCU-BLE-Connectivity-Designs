@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Name="BLE_OTA_FixedStack_Bootloadable">
+  <Version>1.0</Version>
+  <Keyword>BLE</Keyword>
+  <Keyword>DFU</Keyword>
+  <Keyword>OTA</Keyword>
+  <Keyword>Bootloadable</Keyword>
+  <Keyword>Bootloader</Keyword>
+  <Description>This example shows how to use custom linker scripts to share a block of memory between bootloader and bootloadable projects. It demonstrates how the bootloadable can access functions from the bootloader to allow Bluetooth Low Energy communication without needing its own instance of the BLE component.</Description>
+  <DeviceFilter>PSoC 4100 BLE</DeviceFilter>
+  <DeviceFilter>PSoC 4200 BLE</DeviceFilter>
+  <DeviceFilter>PRoC BLE</DeviceFilter>
+  <Document>BLE_OTA_FixedStack_Bootloadable.pdf</Document>
+  <MinToolVersion>4.1</MinToolVersion> 
+</Project>

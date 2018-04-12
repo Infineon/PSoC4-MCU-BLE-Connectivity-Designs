@@ -1,0 +1,17 @@
+CyBle_
+LED_
+Bootloader_Service_Activation_
+WakeUp_Interrupt_
+
+;GCC
+__cy_regions
+__cy_region_num
+__libc_init_array
+__bss_end__
+
+;MDK
+__main
+Image$$DATA$$ZI$$Limit
+
+;IAR
+__iar_data_init3

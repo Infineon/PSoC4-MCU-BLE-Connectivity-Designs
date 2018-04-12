@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Name="BLE_OTA_UpgradableStack_HID_Keyboard">
+  <Version>1.0</Version>
+  <Keyword>BLE</Keyword>
+  <Keyword>OTA</Keyword>
+  <Keyword>Bootloader</Keyword>
+  <Keyword>Bootloadable</Keyword>
+  <Description>This example shows how to build a bootloadable BLE application with a BLE component configured as a “Profiles only” component. This is required for designs that need Over the Air upgrade capability for both Application and the BLE stack. The BLE “Profiles only” component can be configured using the usual user profiles like normal BLE component. This component has a dependency with a stack component which is defined as a part of a separate stack project.</Description>
+  <DeviceFilter MpnDefault="CY8C4128LQI-BL483">PSoC 4100 BLE</DeviceFilter>
+  <DeviceFilter MpnDefault="CY8C4248LQI-BL483">PSoC 4200 BLE</DeviceFilter>
+  <DeviceFilter MpnDefault="CYBL10573-56LQXI">PRoC BLE</DeviceFilter>
+  <Document>BLE_OTA_UpgradableStack_HID_Keyboard.pdf</Document>
+  <MinToolVersion>4.1</MinToolVersion> 
+</Project>
+
