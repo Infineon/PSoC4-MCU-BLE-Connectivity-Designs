@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Name="BLE_Blood_Pressure_Sensor">
+  <Version>1.0</Version>
+  <Keyword>BLE</Keyword>
+  <Keyword>Blood Pressure</Keyword>
+  <Description>Blood Pressure Sensor example project reports Blood Pressure measurements via a Blood Pressure Service.</Description>
+  <DeviceFilter>PSoC 4100 BLE</DeviceFilter>
+  <DeviceFilter>PSoC 4200 BLE</DeviceFilter>
+  <DeviceFilter>PRoC BLE</DeviceFilter>
+  <Document>BLE_Blood_Pressure_Sensor.pdf</Document>
+  <MinToolVersion>4.1</MinToolVersion> 
+</Project>

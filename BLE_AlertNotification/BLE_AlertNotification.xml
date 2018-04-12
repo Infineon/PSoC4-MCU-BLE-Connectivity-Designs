@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Name="BLE_AlertNotification">
+  <Version>1.0</Version>
+  <Keyword>BLE</Keyword>
+  <Keyword>Alert</Keyword>
+  <Keyword>ANS</Keyword>
+  <Keyword>ANP</Keyword>
+  <Keyword>BLE Authenticated pairing</Keyword>
+  <Description>Alert Notification Client example that reads and displays call, email and SMS alerts exposed by an Alert Notification server.</Description>
+  <DeviceFilter>PSoC 4100 BLE</DeviceFilter>
+  <DeviceFilter>PSoC 4200 BLE</DeviceFilter>
+  <DeviceFilter>PRoC BLE</DeviceFilter>
+  <Document>BLE_AlertNotification.pdf</Document>
+  <MinToolVersion>4.1</MinToolVersion> 
+</Project>
+

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Name="BLE_Continuous_Glucose_Monitoring_Sensor">
+  <Version>1.0</Version>
+  <Keyword>BLE</Keyword>
+  <Keyword>Continuous</Keyword>
+  <Keyword>Glucose</Keyword>
+  <Keyword>Monitoring</Keyword>
+  <Keyword>Service</Keyword>
+  <Keyword>BLE Authenticated pairing</Keyword>
+  <Description>Continuous Glucose Monitoring Sensor example project transfers data via a Continuous Glucose Monitoring Service.</Description>
+  <DeviceFilter>PSoC 4100 BLE</DeviceFilter>
+  <DeviceFilter>PSoC 4200 BLE</DeviceFilter>
+  <DeviceFilter>PRoC BLE</DeviceFilter>
+  <Document>BLE_Continuous_Glucose_Monitoring_Sensor.pdf</Document>
+  <MinToolVersion>4.1</MinToolVersion> 
+</Project>

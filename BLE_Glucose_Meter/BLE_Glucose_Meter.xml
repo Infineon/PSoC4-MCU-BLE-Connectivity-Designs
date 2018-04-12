@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Name="BLE_Glucose_Meter">
+  <Version>1.0</Version>
+  <Keyword>BLE</Keyword>
+  <Keyword>Glucose</Keyword>
+  <Keyword>BLE Authenticated pairing</Keyword>
+  <Description>Glucose Meter example project reports Glucose measurements via a Glucose Service.</Description>
+  <DeviceFilter>PSoC 4100 BLE</DeviceFilter>
+  <DeviceFilter>PSoC 4200 BLE</DeviceFilter>
+  <DeviceFilter>PRoC BLE</DeviceFilter>
+  <Document>BLE_Glucose_Meter.pdf</Document>
+  <MinToolVersion>4.1</MinToolVersion> 
+</Project>

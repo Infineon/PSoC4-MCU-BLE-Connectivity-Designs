@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Name="BLE_Apple_Notification_Client">
+  <Version>1.0</Version>
+  <Keyword>BLE</Keyword>
+  <Keyword>Apple</Keyword>
+  <Keyword>Notification</Keyword>
+  <Keyword>Center</Keyword>
+  <Keyword>Client</Keyword>
+  <Description>BLE Apple Notification Client example project indicates the notifications and performs the actions via a Apple Notification Center Service.</Description>
+  <DeviceFilter>PSoC 4100 BLE</DeviceFilter>
+  <DeviceFilter>PSoC 4200 BLE</DeviceFilter>
+  <DeviceFilter>PRoC BLE</DeviceFilter>
+  <Document>BLE_Apple_Notification_Client.pdf</Document>
+  <MinToolVersion>4.1</MinToolVersion> 
+</Project>
+

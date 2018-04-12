@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Name="BLE_FindMe" StarterProject="true">
+  <Version>1.0</Version>
+  <Keyword>BLE</Keyword>
+  <Keyword>Alert</Keyword>
+  <Keyword>IAS</Keyword>
+  <Keyword>Find Me</Keyword>
+  <Keyword>FMP</Keyword>
+  <Description>BLE example project that implements Immediate Alert service and acts as a Find Me target device.</Description>
+  <ShortDescription>Shows how to use the Immediate Alert Service with the BLE component.</ShortDescription>
+  <DeviceFilter>PSoC 4100 BLE</DeviceFilter>
+  <DeviceFilter>PSoC 4200 BLE</DeviceFilter>
+  <DeviceFilter>PRoC BLE</DeviceFilter>
+  <Document>BLE_FindMe.pdf</Document>
+  <MinToolVersion>4.1</MinToolVersion> 
+</Project>
