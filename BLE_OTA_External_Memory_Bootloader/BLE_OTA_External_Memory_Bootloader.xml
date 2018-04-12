@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Name="BLE_OTA_External_Memory_Bootloader">
+  <Version>1.0</Version>
+  <Keyword>BLE</Keyword>
+  <Keyword>DFU</Keyword>
+  <Keyword>OTA</Keyword>
+  <Keyword>EEPROM</Keyword>
+  <Keyword>FRAM</Keyword>
+  <Keyword>Bootloadable</Keyword>
+  <Keyword>Bootloader</Keyword>
+  <Description>Bootloader example project that reads the firmware image stored in the external memory location (EEPROM or FRAM) and updates the PSoC 4 BLE/PRoC BLE device flash. This example projects works in conjunction with the external memory bootloadable example and is not a standalone example.</Description>
+  <DeviceFilter>PSoC 4100 BLE</DeviceFilter>
+  <DeviceFilter>PSoC 4200 BLE</DeviceFilter>
+  <DeviceFilter>PRoC BLE</DeviceFilter>
+  <Document>BLE_OTA_External_Memory_Bootloader.pdf</Document>
+  <MinToolVersion>4.1</MinToolVersion> 
+</Project>

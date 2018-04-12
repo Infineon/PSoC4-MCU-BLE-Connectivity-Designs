@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Name="BLE_Navigation">
+  <Version>1.0</Version>
+  <Keyword>BLE</Keyword>
+  <Keyword>Location</Keyword>
+  <Keyword>Navigation</Keyword>
+  <Keyword>Service</Keyword>
+  <Description>Location and Navigation Pod example project transfers data via a Location and Navigation Service.</Description>
+  <DeviceFilter>PSoC 4100 BLE</DeviceFilter>
+  <DeviceFilter>PSoC 4200 BLE</DeviceFilter>
+  <DeviceFilter>PRoC BLE</DeviceFilter>
+  <Document>BLE_Navigation.pdf</Document>
+  <MinToolVersion>4.1</MinToolVersion> 
+</Project>
+
