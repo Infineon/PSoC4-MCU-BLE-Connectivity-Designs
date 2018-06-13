@@ -140,6 +140,8 @@ Need support for your design and development questions? Check out the [Cypress D
 
 Interact with technical experts in the embedded design community and receive answers verified by Cypress' very best applications engineers. You'll also have access to robust technical documentation, active conversation threads, and rich multimedia content.
 
-You can also use the following support resources if you need quick assistance: 
-Self-help: [http://www.cypress.com/support] (http://www.cypress.com/support)
-Local Sales office locations: [http://www.cypress.com/about-us/sales-offices] (http://www.cypress.com/about-us/sales-offices)
+You can also use the following support resources if you need quick assistance:
+
+Self-help: [http://www.cypress.com/support](http://www.cypress.com/support)
+
+Local Sales office locations: [http://www.cypress.com/about-us/sales-offices](http://www.cypress.com/about-us/sales-offices)
